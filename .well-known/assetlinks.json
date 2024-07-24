@@ -4,12 +4,11 @@
       "delegate_permission/common.handle_all_urls",
       "delegate_permission/common.get_login_creds"
     ],
-    "target" : {
-      "namespace" : "android_app",
-      "package_name" : "com.example.android",
-      "sha256_cert_fingerprints" : [
-        "SHA_HEX_VALUE"
-      ]
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.coinex.trade.play",
+      "sha256_cert_fingerprints":
+      ["68:CB:A4:4D:4D:93:6C:48:9F:B9:52:48:FE:00:C3:B9:DC:3F:17:BE:36:1B:CD:0D:8E:7D:1D:FA:CB:A9:26:CF"]
     }
   }
 ]
